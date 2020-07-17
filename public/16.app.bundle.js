@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{46:function(n){n.exports=JSON.parse('{"pagename":["Was sind wir?","Angebot","Kontakt","Bedingungen"]}')}}]);

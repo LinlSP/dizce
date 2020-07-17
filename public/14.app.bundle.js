@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{44:function(s){s.exports=JSON.parse('{"resources":"Ressourcen"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{35:function(e){e.exports=JSON.parse('{"selectText":"Original content of the language:","availableLanguages":["English","Spanish","German"],"availableLanguagesForPetition":["english","spanish","german"],"filters":["All","Science","Mathematic","Technology","Social sciences"]}')}}]);

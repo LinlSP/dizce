@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{40:function(e){e.exports=JSON.parse('{"services":[{"type":"Free","sub":"Contenidos de otros autores recomendados por nosotros."},{"type":"Store","sub":"Los contenidos más pedidos por nuestros clientes"},{"type":"Personalized","sub":"Tienes algo en mente? Estés seguro o no, esta es tu opción"}]}')}}]);

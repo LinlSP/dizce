@@ -1,7 +1,10 @@
 const express = require("express");
 const cors = require("cors");
 const router = express.Router();
-require("dotenv").config();
+const helmet = require("helmet");
+if (process.env.NODE_ENV !== "production") {
+  require("dotenv").config();
+}
 
 const config = require("./config");
 const db = require("./db");
@@ -10,6 +13,7 @@ const routes = require("./network/routes");
 const app = express();
 const { dbUri, port, host } = config;
 
+app.use(helmet());
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

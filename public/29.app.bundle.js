@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{59:function(n){n.exports=JSON.parse('{"message":"Página no encontrada"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{87:function(n){n.exports=JSON.parse('{"message":"Página no encontrada"}')}}]);

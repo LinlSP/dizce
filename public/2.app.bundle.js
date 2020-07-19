@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{60:function(e){e.exports=JSON.parse('{"inquiries":"Inquiries","support":"Support","or":"Or","socialmedia":"Envíanos un mensaje directo en cualquiera de nuestras redes:"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{60:function(n){n.exports=JSON.parse('{"inquiries":"Inquiries","support":"Support","or":"Or","socialmedia":"Send us a direct message on any of our channels:"}')}}]);

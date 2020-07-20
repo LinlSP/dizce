@@ -16,7 +16,7 @@ The code is not 100% polished and there are many things that could have been don
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/download/) to install Dizce [frontend].
+Use the package manager [npm](https://nodejs.org/en/download/) to install Dizce [Full App].
 
 ```bash
 npm install
